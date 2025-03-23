@@ -1,52 +1,36 @@
 # Hi there, I'm Sandra 👋
 
-Welcome to my GitHub profile! I'm passionate about web development and software testing, always eager to learn and improve my skills.
+Welcome to my GitHub profile! I'm a dedicated Software Tester passionate about ensuring quality in software through robust testing practices and innovative automation. Below are some of my key projects and the tools I use.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React.js, Bootstrap, Node.js (Express.js)  
-- **Databases:** PostgreSQL, MariaDB  
-- **Testing & Tools:** Postman, Cypress, Playwright, Jira, Trello  
-
-## 🎓 Software Testing Studies – Testing with Programming Fundamentals
-
-I am currently enrolled in a **6-month Testing with Programming Fundamentals** program, gaining hands-on experience in **manual and automated software testing**.
-
-**Key Areas of Study:**  
-- **Software Testing Principles** – Understanding core concepts, objectives, and processes.  
-- **Manual & Automated Testing** – Developing and executing various test cases.  
-- **Programming for Testing** – Learning JavaScript for test script development.  
-- **Testing Tools & Databases** – Practical experience with **Postman, Cypress, Playwright, MariaDB, and PostgreSQL**.  
-- **Quality Assurance & Bug Detection** – Ensuring software quality and identifying vulnerabilities.  
-
-This training is preparing me for a **Junior Software Tester** role, equipping me with essential skills for software quality assurance.  
+- **Testing Frameworks:** Cypress, Playwright  
+- **API Testing:** Postman  
+- **Programming Languages:** JavaScript, HTML, CSS  
+- **Automation & Tools:** Node.js, Git, npm  
 
 ## 📌 Pinned Repositories
 
 Here are some of my notable projects:
 
-- [**automationexercise_website_full_testing_portfolio**](https://github.com/Sandra-Ston/automationexercise_website_full_testing_portfolio): Comprehensive testing portfolio for the Automation Exercise website, showcasing various testing techniques.  
-- [**CRUD_API_paskaita**](https://github.com/Sandra-Ston/CRUD_API_paskaita): A project demonstrating CRUD operations through a RESTful API, highlighting backend development skills.  
-- [**Cypress-ToDoList-testai**](https://github.com/Sandra-Ston/Cypress-ToDoList-testai): Automated tests for a To-Do List application using Cypress, emphasizing proficiency in end-to-end testing.  
-- [**Figma-Trafalgar**](https://github.com/Sandra-Ston/Figma-Trafalgar): A front-end project replicating a Figma design, focusing on HTML and CSS skills.  
-- [**mini-shop**](https://github.com/Sandra-Ston/mini-shop): A mini e-commerce site built with SCSS, demonstrating front-end development capabilities.  
+- **parabank_website_cypress_tests**  
+  An end-to-end testing suite for the Parabank website using Cypress, ensuring user flows work flawlessly.
 
-Feel free to explore these repositories to see my work in action.  
+- **parabank_website_playwright_tests**  
+  A comprehensive test suite built with Playwright to automate and verify functionalities on the Parabank website.
 
-## 🌱 I'm Currently Learning
+- **automationexercise_website_full_testing_portfolio**  
+  A full portfolio of automated tests for the Automation Exercise website covering multiple test scenarios and tools.
 
-- Advanced React.js concepts  
-- Testing with Cypress and Playwright  
-- Project management with Jira and Trello  
-- Backend development with Express.js  
+- **tic-tac-toe**  
+  A web-based Tic Tac Toe game that demonstrates my skills in web development and interactive design.
+
+- **automationexercise_website_postman_tests**  
+  A Postman collection designed for API testing of the Automation Exercise website, ensuring robust backend performance.
+  
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [in/sandra-stonytė](www.linkedin.com/in/sandra-stonytė)  
+- **LinkedIn:** [in/sandra-stonytė](www.linkedin.com/in/sandra-stonytė)
 
-Looking forward to collaborating on exciting projects! 🚀  
-
----
-
-*Note: This `README.md` is a brief introduction to my GitHub profile. For more detailed information, please explore the individual repositories.*
+I'm continuously enhancing my skills in both manual and automated testing to deliver high-quality software products. I enjoy tackling challenging testing problems and am always open to collaboration and feedback. Feel free to explore my repositories and get in touch if you'd like to collaborate!🚀
