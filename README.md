@@ -1,6 +1,11 @@
-# Hi there, I'm Sandra 👋
+![Image Alt](https://github.com/Sandra-Ston/Sandra-Ston/blob/main/Copy%20of%20Art%20of%20testing.png?raw=true)
 
-Welcome to my GitHub profile! I'm a dedicated Software Tester passionate about ensuring quality in software through robust testing practices and innovative automation. Below are some of my key projects and the tools I use.
+
+
+
+<h1 align="center"> Hi there, I'm Sandra 👋</h1>
+
+Welcome to my GitHub profile! I am excited to combine my broad background in art history with the field of information technology. Attention to detail, adaptability and clear communication are essential characteristics of museum management and software testing. Below are some of my key projects and the tools I use.
 
 ## 🔧 Technologies & Tools
 
@@ -21,9 +26,6 @@ Here are some of my notable projects:
 
 - **automationexercise_website_full_testing_portfolio**  
   A full portfolio of automated tests for the Automation Exercise website covering multiple test scenarios and tools.
-
-- **tic-tac-toe**  
-  A web-based Tic Tac Toe game that demonstrates my skills in web development and interactive design.
 
 - **automationexercise_website_postman_tests**  
   A Postman collection designed for API testing of the Automation Exercise website, ensuring robust backend performance.
