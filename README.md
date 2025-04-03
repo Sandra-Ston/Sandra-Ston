@@ -33,4 +33,4 @@ Here are some of my notable projects:
 
 - **LinkedIn:** [in/sandra-stonytė](www.linkedin.com/in/sandra-stonytė)
 
-I'm continuously enhancing my skills in both manual and automated testing to deliver high-quality software products. I enjoy tackling challenging testing problems and am always open to collaboration and feedback. Feel free to explore my repositories and get in touch if you'd like to collaborate!🚀
+I'm continuously enhancing my skills in both manual and automated testing to deliver high-quality software products. I enjoy tackling challenging testing problems and am always open to collaboration and feedback. Feel free to explore my [repositories](https://github.com/Sandra-Ston?tab=repositories) and get in touch if you'd like to collaborate!🚀
