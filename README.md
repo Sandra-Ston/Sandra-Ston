@@ -1,5 +1,3 @@
-![Image Alt](https://github.com/Sandra-Ston/Sandra-Ston/blob/main/Copy%20of%20Art%20of%20testing.png?raw=true)
-
 <h1 align="center"> Hi there, I'm Sandra 👋</h1>
 
 Welcome to my GitHub profile! With a decade of experience as a chief museum curator, I developed a keen eye for detail, adaptability, and clear communication—skills that are just as crucial in the world of software testing. My career transition into IT allows me to combine my analytical mindset with a passion for quality assurance, ensuring that technology functions seamlessly and efficiently. Below are some of my key projects and the tools I use.
